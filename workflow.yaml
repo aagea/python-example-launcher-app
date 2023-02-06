@@ -1,0 +1,7 @@
+version: 0
+application:
+  language: python
+  ports:
+  - port: 5000
+    ingress: true
+    ingressPath: /
